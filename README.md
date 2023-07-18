@@ -3,12 +3,22 @@
 This is an Arduino project that demonstrates intrusion detection with Passive Infrared Sensors (PIR's) and sound off alarms (buzzers). The project uses the Arduino programming language and can be customised for similar projects
 
 ## Table of Contents
+- [Features](#features)
 - [Requirements](#requirements)
 - [Hardware Setup](#hardware-setup)
 - [Software Setup](#software-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+## Features
+
+-  **Auto power**: Security system to auto activate at a set time and auto deactivate at a set time.
+-  **Notifications**: Receive alerts on android app upon detection of intrusion.
+-  **LCD display**: Interact with hardware with a keypad and LCD screen.
+-  **Keypad**: Interact with hardware with a keypad and LCD screen.
+-  **Time display:** See displayed time on LCD screen
 
 ## Requirements
 To run this project, you will need the following components:
