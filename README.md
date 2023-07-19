@@ -14,7 +14,7 @@ This is an Arduino project that demonstrates intrusion detection with Passive In
 
 ## Features
 
--  **Auto power**: Security system to auto activate at a set time and auto deactivate at a set time.
+-  **Auto power**: Set security system to auto activate at a set time and auto deactivate at a set time.
 -  **Notifications**: Receive alerts on android app upon detection of intrusion.
 -  **LCD display**: Interact with hardware with a keypad and LCD screen.
 -  **Keypad**: Interact with hardware with a keypad and LCD screen.
