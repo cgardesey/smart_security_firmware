@@ -44,7 +44,8 @@ To run this project, you will need the following components:
 ## Hardware Setup
 Setup the the hardware as shown below:
 
-![image](https://github.com/cgardesey/smart_security_firmware/assets/10109354/3b127681-51dc-4175-b936-d415535cf182)
+![image](https://github.com/cgardesey/smart_security_firmware/assets/10109354/69208ca9-477b-47e1-883b-1400273117c8)
+
 
 
 ## Software Setup
