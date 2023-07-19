@@ -40,6 +40,8 @@ To run this project, you will need the following components:
 - Capacitors
 - Jumper wires
 - Breadboard (optional, for prototyping)
+- Male headers
+- Female headers
 
 ## Hardware Setup
 Setup the the hardware as shown below:
