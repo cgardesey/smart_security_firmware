@@ -35,9 +35,9 @@ To run this project, you will need the following components:
 - 12V 5A power adapter (with stable output)
 - Flexible wire calbe
 - Packaging (Junction box, 3D moulded plastic box, wooden box etc)
-- Resistors
-- Transistors
-- Capacitors
+- Resistors (10K, 1K 560R)
+- Transistors (BC547, BD139)
+- Capacitors (100nF, 10uF, 100uF 
 - Jumper wires
 - Breadboard (optional, for prototyping)
 - Male headers
